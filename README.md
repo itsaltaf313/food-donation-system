@@ -36,7 +36,7 @@ python manage.py runserver
 ## 📬 Contact
 
  *Name:* Altaf Shaikh  
- *Email:* altaf2024dit1463@detedu.org  
+ *Email:* altafshaikh04740@gmail.com
  *GitHub:* [itsaltaf313](https://github.com/itsaltaf313)  
  *Portfolio:* [itsaltaf313.github.io](https://itsaltaf313.github.io
 
