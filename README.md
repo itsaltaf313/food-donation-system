@@ -18,22 +18,6 @@ food-donation-system/ │ ├── fooddonation/              # Django App │ 
 
 
 
-
-### 🏠 Home Page
-![Home Page]()
-
-### 🔐 donar Page
-![Login Page](images/donar_page.png)
-# 📸 Screenshots
-
-### 🏠 admin Page
-![Home Page](images/admin.png)
-
-### 🔐 Login Page
-![Login Page](images/loginpage.png
-### 🔐 Login Page
-![Login Page](images/organization_login_page.png)
-
 ## 🚀 How to Run Locally
 
 1. *Clone the repo*
