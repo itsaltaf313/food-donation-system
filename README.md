@@ -22,11 +22,11 @@ food-donation-system/ │ ├── fooddonation/              # Django App │ 
 ### 🏠 Home Page
 ![Home Page]()
 
-### 🔐 Login Page
-![Login Page](images/login_page.png)
+### 🔐 donar Page
+![Login Page](images/donar_page.png)
 # 📸 Screenshots
 
-### 🏠 Home Page
+### 🏠 admin Page
 ![Home Page](images/admin.png)
 
 ### 🔐 Login Page
