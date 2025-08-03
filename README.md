@@ -16,3 +16,12 @@ A web platform to connect food donors and NGOs for real-time food donation & pic
 ## 🚀 How to Run
 ```bash
 python manage.py runserver
+
+
+## 📬 Contact
+
+ *Name:* Altaf Shaikh  
+ *Email:* altaf2024dit1463@detedu.org  
+ *GitHub:* [itsaltaf313](https://github.com/itsaltaf313)  
+ *Portfolio:* [itsaltaf313.github.io](https://itsaltaf313.github.io)
+
