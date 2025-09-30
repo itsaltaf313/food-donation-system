@@ -35,8 +35,12 @@ python manage.py runserver
 ##My Information
 ## 📬 Contact
 
- *Name:* Altaf Shaikh  
- *Email:* altafshaikh04740@gmail.com
- *GitHub:* [itsaltaf313](https://github.com/itsaltaf313)  
- *Portfolio:* [itsaltaf313.github.io](https://itsaltaf313.github.io
+ 👨‍💻 Author
+
+Altaf Shaikh
+📧 Email: altafshaikh04740@gmail.com
+🌐 GitHub: itsaltaf313
+💼 LinkedIn: https://www.linkedin.com/in/altaf-shaikh-383811304
+
+📌 Aspiring Data Scientist | Skilled in SQL, Python, Machine Learning, and Data Visualization
 
